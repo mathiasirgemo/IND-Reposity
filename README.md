@@ -8,6 +8,6 @@
 [<img allign="left" alt="mathiasirgemo | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
-# Feel free to reach out if you have any questions or just want to have a chat!
+- Feel free to reach out if you have any questions or just want to have a chat!
 
 [linkedin]: https://www.linkedin.com/in/mathias-irgemo/
