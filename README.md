@@ -1,2 +1,1 @@
 # GRUPPE-Repository
-# GRUPPE-Repository
