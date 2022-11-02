@@ -1,0 +1,14 @@
+.kort{
+   margin-top: 25px;
+   background-color: rgb(158, 158, 158);
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   max-width: 200px;
+   margin: left;
+   text-align: center;
+}
+.kontaktkort{
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
